@@ -1,0 +1,577 @@
+00:01:44	Yiyang Chen:	1
+
+00:01:46	Junbo Sheng:	1
+
+00:01:46	Jiayi Lin:	1
+
+00:01:47	Baitong Liu:	1
+
+00:01:47	Zian Fan:	11111
+
+00:01:48	Leon Luc:	1
+
+00:01:48	Zhiqian Wang:	1
+
+00:01:49	Jiahui Lu:	1
+
+00:01:49	Shiming Chen:	1
+
+00:01:49	Zihao Niu:	1
+
+00:01:50	Yue Meng:	1
+
+00:01:50	Qi Xie:	1
+
+00:01:51	Spoorthy Bhat:	1
+
+00:01:52	Dayuan Jian:	1
+
+00:01:52	Minyi Ding:	1
+
+00:01:54	Luke Nelson:	1
+
+00:01:54	Dongzhe Jiang:	1
+
+00:01:56	Shaozhen Lu:	1
+
+00:01:56	Ruochen Cao:	1
+
+00:01:57	Gwen Fang:	1
+
+00:02:06	Ying Zhou:	1
+
+00:02:07	Tirth Patel:	1
+
+00:02:09	Vinjit Regulagedda:	1
+
+00:02:09	Jiacheng Weng:	1
+
+00:02:09	Divya Manjunath:	1
+
+00:02:11	Jiarui Ou:	1
+
+00:02:12	Harrison Knapp:	1
+
+00:07:21	Harrison Knapp:	1
+
+00:07:22	Luke Nelson:	1
+
+00:07:22	Yue Meng:	1
+
+00:07:23	Yiyang Chen:	1
+
+00:07:23	Leon Luc:	1
+
+00:07:24	Gwen Fang:	1
+
+00:07:25	Madeleine Thompson:	1
+
+00:07:25	Rushi Shah:	1
+
+00:07:25	Vinjit Regulagedda:	1
+
+00:07:25	Zian Fan:	1
+
+00:07:26	Shiming Chen:	1
+
+00:07:26	Dengjia Zhang:	1
+
+00:07:27	Jiarui Ou:	1
+
+00:07:27	Emma Lu:	1
+
+00:07:27	Chenyu Zhang:	1
+
+00:07:27	Jiahao Sun:	1
+
+00:07:27	Dayuan Jian:	1
+
+00:07:27	Tirth Patel:	1
+
+00:07:28	Ruoxuan Li:	1
+
+00:07:28	Qi Xie:	1
+
+00:07:28	Shayne Hu:	1
+
+00:07:29	Jiayi Lin:	1
+
+00:07:30	Jiahui Lu:	1
+
+00:07:31	Dongzhe Jiang:	1
+
+00:07:33	Vishal Ajaybhai Kapadia:	1
+
+00:07:33	Jiacheng Weng:	1
+
+00:07:36	Zhiqian Wang:	1
+
+00:07:39	Baitong Liu:	1
+
+00:07:47	Yanru Jiang:	1
+
+00:11:04	Wensheng Wu:	endorse
+
+00:11:35	Di Wu:	1
+
+00:12:19	Zian Fan:	1
+
+00:13:06	Zian Fan:	My bad Im already in there
+
+00:14:47	Rushi Shah:	Hello Professor,
+
+00:17:04	Rushi Shah:	1
+
+00:17:04	Jiahao Sun:	1
+
+00:17:04	Madeleine Thompson:	1
+
+00:17:04	Zian Fan:	1
+
+00:17:04	Max Chen:	1
+
+00:17:05	Yue Meng:	1
+
+00:17:05	Jiarui Ou:	1
+
+00:17:05	Yiyang Chen:	1
+
+00:17:05	Daisy Zhou:	1
+
+00:17:05	Dengjia Zhang:	1
+
+00:17:06	Ruochen Cao:	1
+
+00:17:06	Dongzhe Jiang:	1
+
+00:17:06	Jiayi Lin:	1
+
+00:17:07	Zihao Niu:	1
+
+00:17:07	Jiacheng Weng:	1
+
+00:17:08	Shaozhen Lu:	1
+
+00:17:09	Junbo Sheng:	1
+
+00:17:15	Ruichao Ma:	1
+
+00:18:37	Zian Fan:	1
+
+00:18:37	Madeleine Thompson:	1
+
+00:18:38	Yue Meng:	1
+
+00:18:38	Jiahui Lu:	1
+
+00:18:38	Zihao Niu:	1
+
+00:18:39	Divya Manjunath:	1
+
+00:18:39	Luke Nelson:	1
+
+00:18:39	Dongzhe Jiang:	1
+
+00:18:39	Ruichao Ma:	1
+
+00:18:39	Yichao Zhu:	1
+
+00:18:40	Baitong Liu:	1
+
+00:18:40	Vinjit Regulagedda:	1
+
+00:18:41	Qi Xie:	1
+
+00:18:41	Leon Luc:	1
+
+00:18:41	Jiacheng Weng:	1
+
+00:18:41	Di Wu:	1
+
+00:18:41	Vishal Ajaybhai Kapadia:	1
+
+00:18:42	Yanru Jiang:	1
+
+00:18:43	Dengjia Zhang:	1
+
+00:18:45	Jiahao Sun:	1
+
+00:18:46	Emma Lu:	1
+
+00:18:47	Yiyang Chen:	2
+
+00:18:49	Zhiqian Wang:	1
+
+00:19:27	Zian Fan:	I signed up AWS educate, does that make a difference?
+
+00:21:15	Rushi Shah:	list
+
+00:21:16	Yue Meng:	List
+
+00:21:37	Wensheng Wu:	merge sort
+
+00:22:09	Jiahao Sun:	nlgn
+
+00:22:10	Yue Meng:	nlgn
+
+00:22:15	Tirth Patel:	nlogn
+
+00:47:35	Vishal Ajaybhai Kapadia:	Professor are we allowed to do multiple submission for the coursework before the deadline or just one submission is allowed?
+
+00:57:20	Wensheng Wu:	ReAct
+
+00:57:25	Vinjit Regulagedda:	1
+
+00:57:27	Spoorthy Bhat:	1
+
+00:57:55	Manikanta Chunduru Balaji:	1
+
+00:58:42	Wensheng Wu:	form-based
+
+02:07:15	Di Wu:	Hi everyone, I am from China. Sorry my device does not have micphone and video. My name is Di Wu. I am in the Applied Data Science program. My undergraduate major is economics. I know python and SQL and a little bit of scala. I never code in java before.
+
+02:17:09	Vishal Ajaybhai Kapadia:	VARIETY velocity and volume
+
+02:18:26	Yiyang Chen:	1
+
+02:18:27	Madeleine Thompson:	1
+
+02:18:27	Yue Meng:	1
+
+02:18:28	Maxwell Lee:	1
+
+02:18:28	Dongzhe Jiang:	1
+
+02:18:29	Leon Luc:	1
+
+02:18:29	Emma Lu:	1
+
+02:18:30	Vishal Ajaybhai Kapadia:	1
+
+02:18:31	Jiacheng Weng:	1
+
+02:18:31	Harrison Knapp:	1
+
+02:18:32	Ruochen Cao:	1
+
+02:18:32	Manikanta Chunduru Balaji:	1
+
+02:18:34	Shiming Chen:	1
+
+02:18:34	Zhiqian Wang:	1
+
+02:18:35	Qianru Hou:	1
+
+02:20:29	Manikanta Chunduru Balaji:	Internet of things
+
+02:20:36	Gwen Fang:	Social media
+
+02:20:42	Madeleine Thompson:	healtchare
+
+02:20:42	Luke Nelson:	Retailers
+
+02:20:44	Wenxuan Li:	Retailer database?
+
+02:20:47	Vinjit Regulagedda:	Logistics
+
+02:20:54	Manikanta Chunduru Balaji:	Scientific data
+
+02:27:51	Wenxuan Li:	mapreduce
+
+02:27:53	Maria MacHarrie:	File system and map reduce
+
+02:27:56	Jiacheng Weng:	HDFS mapreduce
+
+02:27:56	Madeleine Thompson:	HDFS
+
+02:27:56	Jiahui Lu:	HDFS
+
+02:27:57	Tirth Patel:	Mao and reduce
+
+02:27:57	Maxwell Lee:	Hfs and map reduce
+
+02:27:58	Vishal Ajaybhai Kapadia:	hdfs
+
+02:27:58	Jiarui Ou:	HDFS and MapReduce
+
+02:28:09	Maria MacHarrie:	HDFS
+
+02:28:09	Jiahui Lu:	HDFS
+
+02:28:10	Zhiqian Wang:	HDFS
+
+02:28:11	Jiacheng Weng:	hdfs
+
+02:28:12	Shiming Chen:	hdfs
+
+02:31:28	Madeleine Thompson:	storage
+
+02:31:38	Vishal Ajaybhai Kapadia:	RAM
+
+02:31:54	Vishal Ajaybhai Kapadia:	8GB
+
+02:31:59	Zian Fan:	Not a lot,32GB
+
+02:32:34	Vishal Ajaybhai Kapadia:	HDD
+
+02:32:36	Jiarui Ou:	SSD/HDD
+
+02:32:37	Tirth Patel:	harddrive
+
+02:32:55	Manikanta Chunduru Balaji:	HDD
+
+02:32:57	Wensheng Wu:	SSD
+
+02:34:50	Zhiqian Wang:	1024
+
+02:34:53	Baitong Liu:	1024
+
+02:34:54	Manikanta Chunduru Balaji:	1024
+
+02:34:57	Vinjit Regulagedda:	1024
+
+02:35:03	Max Chen:	1024
+
+02:35:05	Wenhao Li:	1024
+
+02:35:06	Zhiqian Wang:	1024
+
+02:35:07	Shiming Chen:	1024
+
+02:35:09	Vishal Ajaybhai Kapadia:	1024
+
+02:36:50	Wensheng Wu:	Ajax
+
+02:36:59	Wensheng Wu:	x?
+
+02:37:13	Wensheng Wu:	jquery?
+
+02:37:23	Yue Meng:	xml
+
+02:37:25	Divya Manjunath:	xml
+
+02:37:30	Vishal Ajaybhai Kapadia:	extensible
+
+02:38:17	Wenhao Li:	ssd
+
+02:38:17	Max Chen:	ssd
+
+02:38:18	Jiarui Ou:	SSD
+
+02:38:18	Ruochen Cao:	SSD
+
+02:38:19	Baitong Liu:	SSD
+
+02:38:20	Vishal Ajaybhai Kapadia:	ssd
+
+02:38:23	Max Chen:	ssd
+
+02:38:23	Vishal Ajaybhai Kapadia:	ssd
+
+02:38:23	Wenhao Li:	ssd
+
+02:38:23	Madeleine Thompson:	SSD
+
+02:38:24	Manikanta Chunduru Balaji:	ssd
+
+02:38:24	Vinjit Regulagedda:	ssd
+
+02:38:25	Ruochen Cao:	SSD
+
+02:38:36	Wensheng Wu:	500MB/s
+
+02:38:39	Wensheng Wu:	100MB/s
+
+02:39:41	Jiahui Lu:	random
+
+02:39:42	Maria MacHarrie:	random
+
+02:39:42	Zian Fan:	Random
+
+02:39:43	Qi Xie:	random
+
+02:39:44	Manikanta Chunduru Balaji:	random
+
+02:39:47	Vishal Ajaybhai Kapadia:	random
+
+02:39:47	Ruichao Ma:	random
+
+02:40:26	Tirth Patel:	sequential
+
+02:43:59	Wensheng Wu:	nodes
+
+02:43:59	Jiarui Ou:	Namenode and datanode
+
+02:44:00	Shiming Chen:	Name node
+
+02:44:08	Maxwell Lee:	name node
+
+02:44:08	Jiarui Ou:	namenode
+
+02:44:08	Tirth Patel:	data
+
+02:44:10	Shiming Chen:	data
+
+02:46:00	Maxwell Lee:	2
+
+02:46:05	Vinjit Regulagedda:	2
+
+02:46:06	Manikanta Chunduru Balaji:	2
+
+02:46:09	Vishal Ajaybhai Kapadia:	more than 1
+
+02:46:26	Wensheng Wu:	reliability
+
+02:51:26	Tirth Patel:	1
+
+02:51:26	Wensheng Wu:	dataframe?
+
+02:51:26	Wenhao Li:	1
+
+02:51:26	Maria MacHarrie:	1
+
+02:51:27	Madeleine Thompson:	1
+
+02:51:28	Emma Lu:	1
+
+02:51:28	Maxwell Lee:	1
+
+02:51:28	Max Chen:	1
+
+02:51:28	Leon Luc:	1
+
+02:51:28	Vinjit Regulagedda:	1
+
+02:51:28	Yiyang Chen:	1
+
+02:51:29	Vishal Ajaybhai Kapadia:	1
+
+02:51:29	Zhiqian Wang:	1
+
+02:51:32	Yanru Jiang:	1
+
+02:51:32	Baitong Liu:	1
+
+02:51:33	Harrison Knapp:	1
+
+02:53:11	Leon Luc:	primary key foreign key
+
+02:54:02	Yue Meng:	1
+
+02:54:02	Vishal Ajaybhai Kapadia:	1
+
+02:54:02	Baitong Liu:	1
+
+02:54:03	Tirth Patel:	1
+
+02:54:04	Zihao Niu:	1
+
+02:54:05	Jiacheng Weng:	1
+
+02:54:07	Yiyang Chen:	1
+
+02:54:07	Qi Xie:	1
+
+02:54:09	Jiarui Ou:	1
+
+02:54:29	Tirth Patel:	Left node>right node
+
+02:57:01	Gwen Fang:	Professor I think you can mute people if you are the host
+
+02:57:02	Maxwell Lee:	I think thereâ€™s a way to mute participants as the host
+
+03:00:43	Tirth Patel:	1
+
+03:00:56	Vishal Ajaybhai Kapadia:	analytical
+
+03:00:57	Divya Manjunath:	analytical
+
+03:01:07	Tirth Patel:	OLAP-rolap-molap
+
+03:09:11	Minyi Ding:	Write-Ahead Log
+
+03:09:21	Tirth Patel:	I think it reduce time latency
+
+03:09:35	Vishal Ajaybhai Kapadia:	log keeps the track of every transaction while the memtable writes after some times and commits
+
+03:09:39	Yanru Jiang:	no
+
+03:09:41	Divya Manjunath:	no
+
+03:17:30	Yanru Jiang:	should we stop the EC2 when we finish the setup
+
+03:18:55	Vishal Ajaybhai Kapadia:	l and num
+
+03:18:56	Tirth Patel:	L,pow
+
+03:19:25	Yiyang Chen:	lambda xï¼š x**2
+
+03:21:46	Yiyang Chen:	lambda x: sum(x)
+
+03:22:07	Vinjit Regulagedda:	reduce(lambda a,b:a+b,l)
+
+03:23:15	Jiacheng Weng:	1:-1
+
+03:26:00	Yiyang Chen:	1
+
+03:26:00	Luke Nelson:	1
+
+03:26:00	Maxwell Lee:	1
+
+03:26:00	Di Wu:	1
+
+03:26:01	Tirth Patel:	1
+
+03:26:01	Zihao Niu:	1
+
+03:26:01	Madeleine Thompson:	1
+
+03:26:01	Jiahui Lu:	1
+
+03:26:02	Yue Meng:	1
+
+03:26:02	Jiahui Lu:	1
+
+03:26:02	Leon Luc:	1
+
+03:26:02	Baitong Liu:	1
+
+03:26:02	Emma Lu:	1
+
+03:26:02	Qi Xie:	1
+
+03:26:03	Yuchen Zhang:	1
+
+03:26:03	Zhiqian Wang:	1
+
+03:26:03	Jiacheng Weng:	1
+
+03:26:03	Shiming Chen:	1
+
+03:26:03	Dengjia Zhang:	1
+
+03:26:03	Wenhao Li:	1
+
+03:26:04	Vishal Ajaybhai Kapadia:	1
+
+03:26:04	Dayuan Jian:	1
+
+03:26:05	Ruoxuan Li:	1
+
+03:26:05	Shaozhen Lu:	1
+
+03:26:05	Dongzhe Jiang:	1
+
+03:26:07	Minyi Ding:	1
+
+03:26:08	Manikanta Chunduru Balaji:	1
+
+03:26:08	Jiarui Ou:	1
+
+03:26:09	Ruochen Cao:	1
+
+03:26:14	Vinjit Regulagedda:	1
+
+03:26:17	Gwen Fang:	1
+
+03:26:29	Jiayi Lin:	when can we see the recording?
