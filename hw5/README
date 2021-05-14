@@ -1,0 +1,20 @@
+# instructions for running question 2
+
+
+a) dataframe-a.py <country json file>
+
+b) dataframe-b.py <country json file> <city json file>
+
+c) dataframe-c.py <country json file>
+
+d) dataframe-d.py <country language json file
+
+e) dataframe-a.py <country json file>
+
+
+
+#### for rdd question
+
+a)rdd_a.py <country json file>
+
+b) rdd-b.py <country json file> <city json file>
